@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushargtailor&label=Profile%20views&color=0e75b6&style=flat" alt="tushargtailor" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **JavaScript, React JS**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **tushar.sdmcc.cs@gmail.com**
 
