@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Tailor</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Frontend Developer</h3>
 <img align="right" alt="coding" width="300" src="https://media4.giphy.com/media/odTTszSU3M3pb5I9eW/200w.gif?cid=82a1493b4qsndu0ef9gw2rgbc80hkyt2y399mrrv5x100d2q&ep=v1_gifs_related&rid=200w.gif&ct=g" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushargtailor&label=Profile%20views&color=0e75b6&style=flat" alt="tushargtailor" /> </p>
